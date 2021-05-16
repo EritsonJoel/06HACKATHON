@@ -1,0 +1,35 @@
+.letra {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: column-reverse;
+}
+
+.texto2 {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  display: flex;
+  justify-content: flex-end;
+}
+.button1 {
+  position: relative;
+  margin: auto;
+}
+.ca {
+  position: relative;
+  bottom: 19em;
+  right: 0.8em;
+}
+
+.imagen11 {
+  display: inline-block;
+  display: flex;
+  justify-content: flex-end;
+
+  position: relative;
+  left: 35.8em;
+}
+.menu {
+  bottom: 2em;
+}
